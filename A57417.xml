@@ -1,0 +1,465 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraigning and indicting of Sir John Barley-Corn a man of noble blood, and well beloved in England ... / newly composed by a well wisher to Sir Iohn, and all that loves him, by poor Tom, for the King, a lover of mirth, but a hater of traytors and mischief ; Thomas Robins the author.</title>
+            <author>Robins, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57417</idno>
+            <idno type="STC">Wing R1648</idno>
+            <idno type="STC">ESTC R36791</idno>
+            <idno type="EEBO-CITATION">16016455</idno>
+            <idno type="OCLC">ocm 16016455</idno>
+            <idno type="VID">104775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1155:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraigning and indicting of Sir John Barley-Corn a man of noble blood, and well beloved in England ... / newly composed by a well wisher to Sir Iohn, and all that loves him, by poor Tom, for the King, a lover of mirth, but a hater of traytors and mischief ; Thomas Robins the author.</title>
+                  <author>Robins, Thomas.</author>
+               </titleStmt>
+               <extent>[6], 8-21, [2] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passinger ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains added illustrated t.p.</note>
+                  <note>Imperfect: stained, cropped, tightly bound, with print show-through and loss of print.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:104775:1"/>
+            <p>
+               <figure>
+                  <figDesc>Oliver and Old Nick judging the case of John Barleycorn</figDesc>
+                  <head>THE Arraigning and Indicting OF Sir <hi>John Barley-Corn.</hi>
+                  </head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:104775:1"/>
+            <p>THE Arraigning and Indicting OF Sir <hi>John Barley-Corn.</hi>
+            </p>
+            <p>A man of a noble blood, and well beloved in England, and hath been a great maintainer of all England, both rich &amp; poor, yet now is found guilty of many a ſinful act and bloody crime, &amp; therefore he is arraigned &amp; condemn'd, &amp; ſtands to the mercy of the Iury, &amp; if any man have any thing to his charge, let them appear at the ſign of the three Loggerheads in Bacchus Court, and there they ſhall be heard by the two noble judges, Oliver &amp; old Nick his holy father. Given under the hands &amp; ſeals of theſe 2 above written, at the ſign of the three mer<g ref="char:EOLhyphen"/>ry companions in Bedlam, that is to ſay, poor <hi>Tom,</hi> merry <hi>Robin,</hi> and <hi>Iack Lackwit.</hi>
+            </p>
+            <p>Newly compoſed by a well wiſher to ſir <hi>Iohn,</hi> and all that loves him.</p>
+            <p>By poor <hi>Tom</hi> for the King, a lover of mirth, but a hater of Traytors &amp; Miſchief.</p>
+            <p>
+               <hi>Thomas Robins</hi> the Author.</p>
+            <p>Printed for T. Paſſinger, at the three Bibles on the middle of London-bridge. 1675.</p>
+         </div>
+         <div type="song">
+            <pb facs="tcp:104775:2"/>
+            <pb facs="tcp:104775:2"/>
+            <opener>The Tune is, <hi>Old Sir John Barley-corn:</hi> Or, <hi>Tom of all Trades.</hi>
+            </opener>
+            <lg>
+               <l>ALL you that be good fellows,</l>
+               <l>come liſten unto me:</l>
+               <l>If that you keep the Ale-houſe<g ref="char:punc">▪</g>
+               </l>
+               <l>and merry company;</l>
+               <l>Attend unto my ſtory,</l>
+               <l>which is I fear too true:</l>
+               <l>It makes my heart full ſorry,</l>
+               <l>and many doth it rue.</l>
+            </lg>
+            <lg>
+               <l>'Tis of a Gallant noble Squire,</l>
+               <l>which many know full well,</l>
+               <l>An honeſt man I witneſs can,</l>
+               <l>if I the truth may tell<g ref="char:punc">▪</g>
+               </l>
+               <l>His Name is Sir <hi>Iohn Barley-corn,</hi>
+               </l>
+               <l>which makes both Ale and Bread:</l>
+               <l>What ſhould all do which how are born,</l>
+               <l>if <hi>Barley-corn</hi> were dead?</l>
+            </lg>
+            <lg>
+               <l>For as I abroad did walk,</l>
+               <l>I heard a pitious cry,</l>
+               <l>And many a man did talk,</l>
+               <l>that <hi>Barley-corn</hi> muſt die;</l>
+               <l>
+                  <pb n="6" facs="tcp:104775:3"/>His enemies increaſe ſo faſt,</l>
+               <l>at board and eke at bed,</l>
+               <l>I fear their malice will not ceaſe,</l>
+               <l>till they cut off his bead.</l>
+               <l>For Smug the honeſt Blackſmith,</l>
+               <l>doth make a piteous cry,</l>
+               <l>And Nick the nimble Taylor,</l>
+               <l>doth vow that he ſhall die:</l>
+               <l>And VVill the VVeaver doth complain,</l>
+               <l>with many Tradeſmen more,</l>
+               <l>I hope their labour is in vain,</l>
+               <l>therefore they may give o're<g ref="char:punc">▪</g>
+               </l>
+               <l>Yet now a little while give ear,</l>
+               <l>you that are ſtanders by,</l>
+               <l>And you preſently ſhall hear</l>
+               <l>Sir <hi>Iohn</hi> condemn'd to dye.</l>
+               <l>All you that love poor Barley-corn,</l>
+               <l>a good word for him give,</l>
+               <l>And he that ſpeaks againſt him,</l>
+               <l>I wiſh he may not live.</l>
+            </lg>
+         </div>
+         <div rend="blackletterType" type="prologue">
+            <p>Gentlemen, if you pleaſe but to give ſo much attention, as to ſpare a little time, you ſhall preſently hear Sir <hi rend="roman">Iohn Barley-Corn</hi> called to the Bar, and all his accuſers appear, giving in their Bills againſt him: and alſo his friends which comes and gives Evidences on his ſide, and ſaves his life after <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e was Con<g ref="char:EOLhyphen"/>temned to dye.</p>
+         </div>
+      </front>
+      <body>
+         <div rend="blackletterType" type="text">
+            <pb facs="tcp:104775:3"/>
+            <head rend="roman">The arraigning and indicting of Sir IOHN BARLEY-CORN.</head>
+            <p rend="roman">O Yes, O Yes, O Yes, if any Man or wo<g ref="char:EOLhyphen"/>man, in Country, Town, or City, have any ſuits or bills of indictments againſt Sir John Barley-corn, let them appear this day, and they ſhall either hear or be heard.</p>
+            <stage>
+               <hi rend="roman">Vulcan</hi> the Black-ſmith appears, &amp; gives in his bill.</stage>
+            <sp>
+               <p>Be it known to you all Gentlemen, that this Sir <hi rend="roman">john barley-corn</hi> hath been a ſore Enemy to me, and too many of my Fel<g ref="char:EOLhyphen"/>lows: for many a time when I have been bu<g ref="char:EOLhyphen"/>ſie at my Work, not thinking any harm to a<g ref="char:EOLhyphen"/>ny Man, but having a fiery ſpark in my throat I one time going over to the ſign of the Cup and Can for one Penny-worth of Ale, there I found Sir <hi rend="roman">john:</hi> I thinking no Hurt to any Man, ſat me down to ſpend my Honeſt
+<pb n="8" facs="tcp:104775:4"/>
+two-pence; but in the end Sir Iohn began to pick a quarrel with me, and then I ſtarted up, thinking to go my way, but then Sir Iohn had got me by the top of the head, that I had no power to help my ſelf: and ſo by his ſtrength and power he threw me down, broke my head, broke my face, and almoſt all my bones, that I was not able to work of three days, I was ſo ſorely tormented in my head and other parts of my body; nay, more then this, he pickt my purſe, and left me never a penny, and therefore he doth deſerve to die.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">Will the Weaver.</hi>
+               </speaker>
+               <p>Now Gentlemen, I do beſeech you to hear me ſpeak; I am but a poor Man, and have a Wife and a Charge of children, and a poor Weaver by my trade, yet this in-knowing Companion will never let me alone, but he is always inticing me from my Work, and will not be quiet till he hath got me to the Ale-houſe, and then he quarrels with me, and abuſeth me moſt baſely, and ſometimes he binds me hand and foot, and throws me in the ditch, and there ſtays with me all Night, and the next Morning leaves me, but not with one Penny in my Pocket, and therefore if you hang him, I will never grieve.</p>
+            </sp>
+            <pb n="9" facs="tcp:104775:4"/>
+            <stage>
+               <hi rend="roman">The Taylor comes in.</hi>
+            </stage>
+            <sp>
+               <p>And I ſhall never grieve if you either hang him or head him: for I am ſure he hath been a great Enemy to me theſe many years: for as I never loved him, I never cared for his Company: for I alwaies Loved Maſter Wheat far bet<g ref="char:EOLhyphen"/>ter then Barley: Yet one time as I was comming home from my Work, I eſpyrd Sir <hi rend="roman">Iohn</hi> and two or thrée good Fellows was a quarreling, ſo I skipped amongſt them, thinking to make them good Friends: but as ſoon as Sir <hi rend="roman">Iohn</hi> ſaw me take my neigh<g ref="char:EOLhyphen"/>bours part, he ſtraight way began to quar<g ref="char:EOLhyphen"/>rel with me, and gave me ſuch a mump on the teeth, that <hi rend="roman">I</hi> fell backward<g ref="char:punc">▪</g> and all to be wrayed me, broke both my Elbows, broke my Yard-wand: nay, worſe then that: the very ſame day my Wife met with him, and he like an ill-conditioned Knave abuſed her, which made her learn ſo much Miſchief, that ſhe comes home as Drunk as ſhe could not ſtand, and beats Back and ſides: Nay, ſhe has got the way ſo perfect, that <hi rend="roman">I</hi> am perſwaded ſhe will never leave it: and therefore by my conſent, you ſhall put him to the ſame Death that <hi rend="roman">I</hi> have put
+<pb n="10" facs="tcp:104775:5"/>
+many of my enemies too, and that is to ſnap off his head.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi rend="roman">VVheatly.</hi>
+               </speaker>
+               <p>Head him, I hang him too, if you Pleaſe, you ſhall have my conſent: for I am ſure he doth deſerve it, for I am certain he doth daily and hourly abuſe me. I am ſure I have been a Man that has been very highly eſteemed both with Lords, Knights and with Squires, and none could pleaſe them ſo well, as <hi rend="roman">james Wheatly</hi> the Baker, but now the caſe is altered, Sir <hi rend="roman">john barley-corn</hi> is the Man that is highly eſteemed in every place: I am now plain <hi rend="roman">james Wheatly,</hi> and he is Sir <hi rend="roman">john barley</hi> at every Word: and that word hath undone many an Honeſt Man in Eng<g ref="char:EOLhyphen"/>land. For the company of Sir <hi rend="roman">john barley<g ref="char:EOLhyphen"/>corn,</hi> I can prove it to be true, has cauſed many an honeſt Man to waſt and conſume all that ever he hath, and more as he can get it: Nay, he has cauſed many a Man to ſell Houſe and Land, and all that ever he can to maintain Sir <hi rend="roman">john barley-corn:</hi> Nay, when Men hoth done all that ever they can, ſold all, ſpent all. and left nothing: yet the Fancy they bear to <hi rend="roman">jack barley-corn,</hi> makes them to rob and ſteal for money for to
+<pb n="11" facs="tcp:104775:5"/>
+maintain themſelves in his Company: Nay, rob and ſteal will not ſerve ſometimes, but kill and ſlay, Murdering one another for Money to keep Sir <hi rend="roman">john barley</hi> Compa<g ref="char:EOLhyphen"/>ny, till at the laſt the Hang-man gets a great part of them, and this Sir <hi rend="roman">john Barley-corn</hi> is the grand Foundation of all this miſchief, and therefore he deſerves to loſe his head.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">Old Noll, and old Nick the judges.</hi>
+               </speaker>
+               <p rend="roman">Well, What anſwer can you make for your ſelf Sir <hi rend="roman">Iohn:</hi> You hear the Com<g ref="char:EOLhyphen"/>plaints made againſt you: harein you are ſound Guilty both of Fellony and Mur<g ref="char:EOLhyphen"/>ther.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi rend="roman">john.</hi>
+               </speaker>
+               <p>I beſeech you Gentlemen to let me have the benefit of the Law to Speak for myſelf, if it ſhall Pleaſe you to hear me, I hope that I ſhall clear my ſelf. You do all know, Gentlemen, that every Man will ſtrive to make his caſe as good as he can: although be himſelf be in the moſt Fault: And as the Old Proverb goes, <hi rend="roman">Some</hi> bad <hi rend="roman">better ſteal a Sheep then ſome look over the hedge:</hi> And ſo it is by me in this Con<g ref="char:EOLhyphen"/>dition,
+<pb n="12" facs="tcp:104775:6"/>
+not as I am accuſed by one of theſe Perſons, but by them all, ſo <hi rend="roman">I</hi> intend to make anſwer againſt them all, and Speak nothing but the Truth. Theſe Men com<g ref="char:EOLhyphen"/>plains that Sir <hi rend="roman">Iohn Barley-corn</hi> hath un<g ref="char:EOLhyphen"/>done them all, which is falſe, as <hi rend="roman">I</hi> ſhall make it appear.</p>
+               <p>
+                  <hi rend="roman">I</hi> confeſs my Name is <hi rend="roman">Barley-corn,</hi> 'tis true: but you never knew <hi rend="roman">Barley-Corn</hi> do any harm, if they do not abuſe him, but al<g ref="char:EOLhyphen"/>ways did good, and hath relieved as many poor, as any Man: and will do ſtill, if they do not abuſe me and my Name, as they have done before time, and doth ſtill, and in a ma<g ref="char:EOLhyphen"/>licious way they take my right Name from me, and after much abuſe takes my good name from me: and inſtead of calling me Sir <hi rend="roman">Iohn Barley-corn,</hi> they call me Maſter <hi rend="roman">Malt,</hi> and ſo <hi rend="roman">I</hi> come to be abuſed and baſely belyed on: for it is Maſter <hi rend="roman">Malt</hi> that has done all this wrong, which they ſay <hi rend="roman">I</hi> have done.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi rend="roman">Malt.</hi>
+               </speaker>
+               <p>Who <hi rend="roman">I,</hi> Brother <hi rend="roman">Iohn?</hi> in<g ref="char:EOLhyphen"/>deed but that thou art my Brother, and I love thee well, <hi rend="roman">I</hi> would hit thee one ſlap in the teeth: but no time paſt, thou and <hi rend="roman">I</hi> ſhall meet again.</p>
+               <p>Gentlemen, As for my part <hi rend="roman">I</hi> will put
+<pb n="13" facs="tcp:104775:6"/>
+my matter to the Bench. Firſt, I. pray you inſider with your ſelves, all Tradeſmen <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould Live: and although I Maſter <hi rend="roman">Malt</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o make ſometimes a Cup of good Liquor, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd many Men come to taſte it, yet the Fault is neither in me nor in my Brother <hi rend="roman">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ohn.</hi> No, no, the Fault is in ſuch as theſe which make this complaint againſt us, as I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hall make it appear to you all.</p>
+               <p>As in the firſt place, Which of you all <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an ſay but Maſter <hi rend="roman">Malt</hi> can make a Cup of good Liquor, with the help of a good Brewer: and when it is made it muſt be ſold. I pray which of you all can Live with<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut it. I but when ſuch Men as theſe, which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omplains of us, and finds it to be good, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen they have ſuch a gréedy mind that they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hink they ſhall never have enough for their Money, and ſo will over-runs wit, and then <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey begin to quarrel with me and my brother <hi rend="roman">Iohn,</hi> till at the end we are forced to take <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem by the top of the Head, and lay them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own faſt aſléep, then I pray you judge whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her we or they be in the fault.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The Iudges.</hi>
+               </speaker>
+               <p>Truly we cannot ſee that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou are in the Fault: but as for Sir
+<pb n="14" facs="tcp:104775:7"/>
+                  <hi rend="roman">Iohn Barley-corn,</hi> we will shew you ſo much Favour, that you shall have thrée days to turn you in, to ſee if you can find Bayl for your good Behaviour: and as for you Maſter <hi rend="roman">Malt,</hi> you muſt bring in Bayl too againſt the next Seſſions: and ſo Farewel for this time.</p>
+            </sp>
+            <p>Now Sir <hi rend="roman">John Barley-corn</hi> and his Bro<g ref="char:EOLhyphen"/>ther <hi rend="roman">Malt</hi> is marching together, &amp; for joy that they got ſo fairly off, they went ſinging this Song.</p>
+            <floatingText xml:lang="eng" type="song">
+               <body>
+                  <opener>The Tune is, Sir John Barley-corn.</opener>
+                  <lg>
+                     <l>ALL you that be good fellows,</l>
+                     <l>come liſten unto me,</l>
+                     <l>If that you love the Ale-houſe,</l>
+                     <l>and merry company.</l>
+                  </lg>
+                  <lg>
+                     <l>My name is Sir John Barley-corn,</l>
+                     <l>which many know full well,</l>
+                     <l>My brothers name is maſter Mault,</l>
+                     <l>as many one can tell.</l>
+                  </lg>
+                  <lg>
+                     <l>Though Smug the honeſt Blackſmith,</l>
+                     <l>on me doth ſore complain:</l>
+                     <l>
+                        <pb n="15" facs="tcp:104775:7"/>Ere long <hi rend="italic">I</hi> know I ſhall not miſs,</l>
+                     <l>to ſhoot him through the brain<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>And honeſt Will the Weaver</l>
+                     <l>for all he is ſo ſtout,</l>
+                     <l>I know he'l do his deaver</l>
+                     <l>to have the other bout.</l>
+                  </lg>
+                  <lg>
+                     <l>And Nick the nimble Taylor;</l>
+                     <l>will venture his beſt ſhears,</l>
+                     <l>Till Barley-corn and Maſter Malt</l>
+                     <l>do take him by the ears.</l>
+                  </lg>
+                  <lg>
+                     <l>Though Maſter Wheat the Baker</l>
+                     <l>he be my younger brother,</l>
+                     <l>He'l not deny a bout to try</l>
+                     <l>with me or any other.</l>
+                  </lg>
+                  <lg>
+                     <l>There's not a Tradeſman in this Land,</l>
+                     <l>that ever yet was horn,</l>
+                     <l>But will take a touch, ſometimes too much</l>
+                     <l>of Sir <hi rend="italic">John Barley-corn.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Therefore all honeſt Tradeſmen,</l>
+                     <l>a good word for me give,</l>
+                     <l>And pray that Sir <hi rend="italic">John Barley-corn,</hi>
+                     </l>
+                     <l>may always with you live.</l>
+                  </lg>
+               </body>
+            </floatingText>
+            <sp>
+               <pb n="16" facs="tcp:104775:8"/>
+               <speaker>Maſter <hi rend="roman">Malt.</hi>
+               </speaker>
+               <p>I, but hear you brother <hi rend="roman">Iohn,</hi> now you put me in mind, you know you are to appear again to make anſwer for your ſelf; therefore I would have you to provide ſome honeſt Man to ſpeak for you, elſe you will be in great danger to loſe your head, and then we are all undone. O brother <hi rend="roman">Malt,</hi> take you no care for me: for as for my part I do not fear but I ſhall have enow to Speak for me: therefore welcome luck. Live or dye, I fear nothing, and ſo farewel for this time: for I think I hear them call <hi rend="roman">John Barley-corn.</hi>
+               </p>
+            </sp>
+            <sp>
+               <p>I am here, I am here, I am here. VVhat is the Man mad?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The Judges.</hi>
+               </speaker>
+               <p>Sir <hi rend="roman">John Barley-corn,</hi> ap<g ref="char:EOLhyphen"/>pear, and anſwer to what is here laid unto your charge. Here you ſtand arraigned and condemned to loſe your head. </p>
+            </sp>
+            <sp>
+               <p>A very ſharp piece of buſſneſs Gentlemen: truly, I am afraid that it will overlay my ſtomach: I hope Gentlemen you will take a part with me, or at the leaſt hear my witneſſes ſpeak: for I am falſly accuſed.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The judges.</hi>
+               </speaker>
+               <p>Thou ſhalt have any favour that can be had therefore bring in thy Evi<g ref="char:EOLhyphen"/>dence, and let us hear what they can ſay in thy behalf.</p>
+            </sp>
+            <pb n="17" facs="tcp:104775:8"/>
+            <stage>The Plow-man enters.</stage>
+            <sp>
+               <p>Gentleman, I pray may a Man Speak without offence, that doth intend to ſpeak nothing but the truth, and no more?</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The Judges.</hi>
+               </speaker>
+               <p>Yes, thou mayſt be bold to ſpeak the very truth and no more: for that is the cauſe we ſit here for: therefore ſpeak boldly that we may underſtand thee.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The Plow-man.</hi> 
+               </speaker>
+               <p>Gentlemen, in the firſt place let me hear what bold, impudent Rogue dare ſpeak one Word againſt Sir <hi rend="roman">John Barley-corn?</hi> who ever he is, he is no better then a Rogue, a Thief, a Vagabond, a Traytor to the Brown Loaf, a Thief to the Braſs Pot, the Oven, and the Spit: Nay, he is a Traytor to the whole World, that would take away the life of ſo noble a man as Sir <hi rend="roman">John Barley-corn:</hi> For he is a man of an antient Houſe, and is come of a Royal Race; There is neither Lord, Knight, nor Squire, but they Love his company, and he theirs: ſo long as they do not abuſe him, he will abuſe no Man, but doth a great deal of Good, I can make it appear in many kind of Ways: And in the firſt place: Few Plow-men can Live without him: For if it were not for him
+<pb n="18" facs="tcp:104775:9"/>
+we could not pay our Land-Lords their Rents: and then I pray what would ſuch men as you do for money and cloaths: nay, your gay Ladies would care but little for you, if you had not your Rents comming in to maintain them: and we could never pay you, but that Sir <hi rend="roman">John Barley-corn</hi> féeds us with money, and yet would you ſeek to take his Life; For ſhame let your malice ceaſe, and pardon his Life, or elſe we are all un<g ref="char:EOLhyphen"/>done.</p>
+            </sp>
+            <stage>Enter in Bunch the Brewer.</stage>
+            <sp>
+               <p>Gentlemen, I beſeech you hear me ſpeak, my name is <hi rend="roman">Bunch</hi> a Brewer, and I do be<g ref="char:EOLhyphen"/>lieve few of you can Live without a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a cup of good Liquor, no more can I tell how to Live without the help of Sir <hi rend="roman">Iohn Barley-Corn;</hi> As for my own part, I maintain a great charge, and keep a great many men at work, I pay Taxes, forty pound a year to the King, God bleſs him, and all this is maintained by the help of Sir <hi rend="roman">Iohn:</hi> then how can any man for ſhame ſeek to take his Life?</p>
+            </sp>
+            <stage>Enter in Miſtris Hoſtiſs.</stage>
+            <sp>
+               <p>Take his Life, I pray who is that which
+<pb n="19" facs="tcp:104775:9"/>
+they would take his Life?</p>
+            </sp>
+            <sp>
+               <p>It is <hi rend="roman">Sir John Barley-corn,</hi> Miſteſs Hoſteſs, they ſay they would take off his head?</p>
+            </sp>
+            <sp>
+               <p>How, take off his head! then they ſhall take off mine too: what impudent Rogues be they that ſay ſo? I am perſwaded that they be none that loveth the poor Commonalty: ſurely they be none but ſome miſerable Rogues that makes their Bags their God, heaping up their cheſts with Money to ſtop the Devils Mouth when he comes to fetch them away; ſuch as theſe would have no body to Live but themſelves. Indéed ſuch as theſe do not care to take off the head of any man, if they could but inrich themſelves by it: away vagabonds, away vagabonds, away you blood-ſucking rogues, away you muckworms of the World, you would have no body Live but your ſelves, I hope Sir <hi rend="roman">Iohn</hi> will yet ſtay amongſt us, when <hi rend="roman">Old Nick</hi> will fetch ſuch as you away by ten at a burthen. Gen<g ref="char:EOLhyphen"/>tlemen, I do beſeech you not to take notice what ſuch Fellows ſayes, for they care not what blood they ſhed: As for Sir <hi rend="roman">Iohn,</hi> I know him to be an honeſt man<g ref="char:punc">▪</g> and never abu<g ref="char:EOLhyphen"/>ſed any Man, if they abuſe not him: Firſt, in ſo doing they abuſe themſelves, for all they ſay he abuſes them, I do proteſt to you Gen<g ref="char:EOLhyphen"/>telmen, before you take his life, you ſhall take
+<pb n="20" facs="tcp:104775:10"/>
+mine, nay, I beſeech you give me leave to ſpeak to you; if you put him to Death, all England is undone: for there is not ſuch a<g ref="char:EOLhyphen"/>nother in the Land that can do as he can do, and hath done; For he can make a Criple to go, be can make a Coward to fight with a good Souldier; Nay, he can make a good Souldier to feel neither hunger nor cold; and beſides, for Valour in himſelf, there is few can encounter with him, for he can pull down the ſtrongeſt Man in the World, and lay him faſt aſleep, therefore I beſeech you Gentlemen, let him Live, or elſe we are all undone.</p>
+            </sp>
+            <stage>Enter in Exciſeman.</stage>
+            <sp>
+               <p>Gentlemen, all this is true which the wo<g ref="char:EOLhyphen"/>man ſpeaks; for if you put Sir <hi rend="roman">Iohn Bar<g ref="char:EOLhyphen"/>ley-corn</hi> to death I and my Family are all undone; for <hi rend="roman">I</hi> pay a great Rent for my farm, and <hi rend="roman">I</hi> have a great many Servants under me, which lies me in great charges, and if you put ſir <hi rend="roman">Iohn</hi> to Death <hi rend="roman">I</hi> and mine are all un<g ref="char:EOLhyphen"/>done, and therefore <hi rend="roman">I</hi> pray let him Live if you love the Common-wealth.</p>
+            </sp>
+            <pb n="21" facs="tcp:104775:10"/>
+            <sp>
+               <speaker>
+                  <hi rend="roman">The Iudges.</hi>
+               </speaker>
+               <p rend="roman">Well, we ſee no cauſe of Death in this man, therefore he ſhall not Dye; Sir Iohn your life is pardoned, henceforth and for evermore; therefore down on thy knees and pray for King <hi>Charles</hi> the ſecond:</p>
+            </sp>
+            <sp>
+               <p>I will ſir, and a curſe on his heart that will not ſay <hi>Amen</hi> to our prayer.</p>
+            </sp>
+            <div rend="roman" type="verse_prayer">
+               <pb facs="tcp:104775:11"/>
+               <head>Sir <hi rend="italic">Iohn's</hi> prayer.</head>
+               <p>O Heavens protect our Gracious King, his Royal Queen alſo, Lord grant them long time to be ſeen in ſpight of cruel foes, from Traytors bold that ſeek the King and Queen for to deſtroy, defend them Lord with one accord unto their ſub<g ref="char:EOLhyphen"/>jects joy; that while the Sun and Moon doth laſt, we may enjoy a King, and when death doth come, provide them a room, with An<g ref="char:EOLhyphen"/>gels for to ſing. And he or ſhe, what ere you be, that will not ſay Amen, ſir <hi rend="italic">Iohn</hi> doth pray, both night and day, you may never ſpeak again.</p>
+            </div>
+            <byline>VVritten by <hi rend="italic">Tho Robins.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:104775:11"/>
+            <head>Books Printed for, and are to be ſold by <hi>Tho. Paſſinger</hi> on <hi>London-Bridge.</hi>
+            </head>
+            <lg>
+               <l>THe pleaſant Hiſtory of Cleocreton and Cloriana.</l>
+               <l>The jovial Garland, or ſundry new Songs and Sonnets, never printed before.</l>
+               <l>The Garland of Loyalty, containing ſun<g ref="char:EOLhyphen"/>dry new Songs of theſe late times.</l>
+               <l>The pleaſant Hiſtory of Pariſmus, Prince of Bohemia, in three ſheets.</l>
+               <l>The Garland of Love and Good-will.</l>
+               <l>The Lovers Academy, or loves new School, containing ſundry Complements of love<g ref="char:EOLhyphen"/>letters.</l>
+               <l>The Tryal of wit, being a new book of mer<g ref="char:EOLhyphen"/>ry Riddles.</l>
+               <l>The Man in the Moon, diſcovering a world of Knavery under the Sun.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:104775:12"/>
+            <p>
+               <figure>
+                  <figDesc>Oliver and Old Nick judging the case of John Barleycorn</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
